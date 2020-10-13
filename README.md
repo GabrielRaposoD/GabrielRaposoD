@@ -129,6 +129,5 @@
 
 ### Find me around the web 🌎:
 
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/william-queiroz/">LinkedIn</a>.
-- 🐦 Following me on <a href="https://twitter.com/wnqueiroz/">Twitter</a>.
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/gabrielrraposo/">LinkedIn</a>.
 - 🌎 My <a href="https://gabrielraposo.com.br/">Portfolio</a>
