@@ -26,22 +26,6 @@
 <br/>
 
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-      alt="aws"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img
-      src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
   <a
     href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
     target="_blank"
@@ -49,30 +33,6 @@
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
       alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.jenkins.io" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"
-      alt="jenkins"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://jestjs.io" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://kubernetes.io" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"
-      alt="kubernetes"
       width="40"
       height="40"
     />
@@ -101,14 +61,6 @@
       height="40"
     />
   </a>
-  <a href="https://www.rabbitmq.com" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg"
-      alt="rabbitMQ"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
@@ -130,4 +82,4 @@
 ### Find me around the web 🌎:
 
 - 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/gabrielrraposo/">LinkedIn</a>.
-- 🌎 My <a href="https://gabrielraposo.com.br/">Portfolio</a>
+- 📒 My <a href="https://gabrielraposo.com.br/">Portfolio</a>
