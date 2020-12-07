@@ -18,7 +18,6 @@
 
 ### About
 
-- 👨‍💻 I'm currently working full-time at **TBDC Agro Softwares**.
 - 🌱 Learning more about and studying: **Nest.Js, Ionic, Next.Js**.
 
 ### Languages and Tools
